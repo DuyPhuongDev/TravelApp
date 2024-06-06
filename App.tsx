@@ -7,13 +7,12 @@
 
 import React from 'react';
 import { SafeAreaView, View, Text } from 'react-native';
+import Home from './src/screens/Home';
 
 function App(): React.JSX.Element {
   return (
     <SafeAreaView>
-      <View>
-        <Text>Hello world</Text>
-      </View>
+      <Home />
     </SafeAreaView>
   );
 }
