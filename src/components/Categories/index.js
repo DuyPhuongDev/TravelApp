@@ -7,14 +7,14 @@ const Categories = ({ categories, selectCategory, onCategoryPress }) => {
         <FlatList
             horizontal
             data={categories}
-            style={{ marginRight: -32 }}
+            keyExtractor={item => String(item)}
             showsHorizontalScrollIndicator = { false }
-            renderItem={({ item }) => {
+            renderItem={({ item, index }) => {
             const selected = selectCategory === item;
             return (
                 <TouchableOpacity
                     onPress={() => onCategoryPress(item)}
-                    style={[styles.containerItem, selected?styles.selectedContainerItem:{}]}>
+                    style={[styles.containerItem, selected?styles.selectedContainerItem:{}, index? {}:{ marginLeft: 32 }]}>
                     <Text style={[styles.item, selected?styles.selectedItem:{}]}>{item}</Text>
                 </TouchableOpacity>
             );

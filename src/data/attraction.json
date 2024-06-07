@@ -1,0 +1,191 @@
+[
+    {
+        "id": 1,
+        "name": "Colosseum",
+        "city": "Rome",
+        "country": "Italy",
+        "entry_price": "$20",
+        "address": "Piazza del Colosseo, 1, 00184 Roma RM, Italy",
+        "opening_time": "9:00 AM",
+        "closing_time": "7:00 PM",
+        "categories": [
+            "Most Visited",
+            "Historical"
+        ],
+        "images": [
+            "https://www.arttrav.com/wp-content/uploads/2021/06/colosseum-alexandrakorey.jpg",
+            "https://www.history.com/.image/t_share/MTkwODIxMzcwNDI5NDQ5OTEw/gettyimages-1081719544.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg",
+            "https://static01.nyt.com/images/2022/06/12/world/12italy-colosseum-01/merlin_206622975_bf44e9c5-b817-405f-b46a-33f6fe5f88a8-superJumbo.jpg",
+            "http://cdn.cnn.com/cnnnext/dam/assets/200925160752-colosseum-file-restricted.jpg",
+            "https://www.travelandleisure.com/thmb/t74QyXS4Oi2C0Lg-_waWgOKTstI=/1600x1000/filters:fill(auto,1)/colosseum-rome-night-stars-ARENA0217-b7ebd36d82b0427caaac90674ba17028.jpg",
+            "https://www.onthegotours.com/blog/wp-content/uploads/2019/05/Colosseum-in-the-morning-Rome-Italy.jpg",
+            "https://hips.hearstapps.com/hmg-prod/images/tod-s-for-colosseum-hypogea-1-1624912790.jpg"
+        ],
+        "coordinates": {
+            "lat": 41.8902,
+            "lon": 12.4922
+        }
+    },
+    {
+        "id": 2,
+        "name": "Taj Mahal",
+        "city": "Agra",
+        "country": "India",
+        "entry_price": "$14",
+        "address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, India",
+        "opening_time": "7:00 AM",
+        "closing_time": "5:00 PM",
+        "categories": [
+            "Most Visited",
+            "Historical"
+        ],
+        "images": [
+            "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/6e/b1/6a/caption.jpg?w=1200&h=-1&s=1",
+            "https://www.forbesindia.com/media/images/2022/May/img_184243_tajmahalindia.jpg",
+            "https://www.tajmahal.gov.in/images/tajmahal-view/day/1.jpg"
+        ],
+        "coordinates": {
+            "lat": 27.1751,
+            "lon": 78.0421
+        }
+    },
+    {
+        "id": 3,
+        "name": "Eiffel Tower",
+        "city": "Paris",
+        "country": "France",
+        "entry_price": "$25",
+        "address": "Champ de Mars, 5 Av. Anatole France, 75007 Paris, France",
+        "opening_time": "9:30 AM",
+        "closing_time": "10:45 PM",
+        "categories": [
+            "Most Visited",
+            "Recommended"
+        ],
+        "images": [
+            "https://www.planetware.com/photos-large/F/eiffel-tower.jpg",
+            "https://www.thetrainline.com/cms/media/1360/france-eiffel-tower-paris.jpg?mode=crop&width=1080&height=1080&quality=70",
+            "https://www.grunge.com/img/gallery/the-bizarre-history-of-the-eiffel-tower/l-intro-1602781703.jpg",
+            "https://th-thumbnailer.cdn-si-edu.com/Q-oOOYwzuhWGLlUa0NvS4jbMGoI=/fit-in/1600x0/filters:focal(1500x1000:1501x1001)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/04/0f/040fc6b3-2c00-4592-9993-8c0c485fcf99/gettyimages-142198198.jpg"
+        ],
+        "coordinates": {
+            "lat": 48.8584,
+            "lon": 2.2945
+        }
+    },
+    {
+        "id": 4,
+        "name": "Leaning Tower of Pisa",
+        "city": "Pisa",
+        "country": "Italy",
+        "entry_price": "$20",
+        "address": "Piazza del Duomo, 56126 Pisa PI, Italy",
+        "opening_time": "9:00 AM",
+        "closing_time": "07:00 PM",
+        "categories": [
+            "Popular"
+        ],
+        "images": [
+            "https://cdn.mos.cms.futurecdn.net/QF5qpbogF6JCsuogypL3Fd.jpg",
+            "https://juliasalbum.com/wp-content/uploads/2019/04/leaning-tower-of-Pisa-Italy.jpg",
+            "https://i.pinimg.com/originals/9d/d9/47/9dd947df69dfb08fc55218c1eecad7ce.jpg"
+        ],
+        "coordinates": {
+            "lat": 43.7230,
+            "lon": 10.3966
+        }
+    },
+    {
+        "id": 5,
+        "name": "Statue of Liberty",
+        "city": "New York",
+        "country": "USA",
+        "entry_price": "$18.50",
+        "address": "New York, NY 10004, United States",
+        "opening_time": "8:30 AM",
+        "closing_time": "4:00 PM",
+        "categories": [
+            "Most Visited",
+            "Historical"
+        ],
+        "images": [
+            "https://upload.wikimedia.org/wikipedia/commons/e/e5/Statue_of_Liberty_from_front.jpg",
+            "https://www.nps.gov/stli/learn/historyculture/images/liberty.jpg",
+            "https://cdn.britannica.com/77/197177-050-B37B72B6/Statue-of-Liberty-New-York-Harbor.jpg"
+        ],
+        "coordinates": {
+            "lat": 40.6892,
+            "lon": -74.0445
+        }
+    },
+    {
+        "id": 6,
+        "name": "Great Wall of China",
+        "city": "Beijing",
+        "country": "China",
+        "entry_price": "$10",
+        "address": "Huairou, China",
+        "opening_time": "7:30 AM",
+        "closing_time": "5:30 PM",
+        "categories": [
+            "Most Visited",
+            "Historical"
+        ],
+        "images": [
+            "https://static.wixstatic.com/media/557705_3969779c38164490b6c2f4455f3fce71~mv2.jpeg/v1/fill/w_925,h_618,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/557705_3969779c38164490b6c2f4455f3fce71~mv2.jpeg",
+            "https://www.chinahighlights.com/image/china-travel-guide/great-wall/section-1.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/1/1d/Great_Wall_of_China_July_2006.jpg"
+        ],
+        "coordinates": {
+            "lat": 40.4319,
+            "lon": 116.5704
+        }
+    },
+    {
+        "id": 7,
+        "name": "Sydney Opera House",
+        "city": "Sydney",
+        "country": "Australia",
+        "entry_price": "$37",
+        "address": "Bennelong Point, Sydney NSW 2000, Australia",
+        "opening_time": "9:00 AM",
+        "closing_time": "5:00 PM",
+        "categories": [
+            "Popular",
+            "Recommended"
+        ],
+        "images": [
+            "https://external-preview.redd.it/So6_opvkLo01eMUdQVNCnP0wZDYfJGh-zu1_DGWKbqg.jpg?width=1080&crop=smart&auto=webp&s=0c5b74914e1e6b2cd1671e6914750938fcca7dfc",
+            "https://upload.wikimedia.org/wikipedia/commons/a/a7/Sydney_Opera_House_Sails.jpg",
+            "https://media.timeout.com/images/105240189/750/422/image.jpg"
+        ],
+        "coordinates": {
+            "lat": -33.8568,
+            "lon": 151.2153
+        }
+    },
+    {
+        "id": 8,
+        "name": "Machu Picchu",
+        "city": "Cusco Region",
+        "country": "Peru",
+        "entry_price": "$45",
+        "address": "08680, Peru",
+        "opening_time": "6:00 AM",
+        "closing_time": "5:30 PM",
+        "categories": [
+            "Most Visited",
+            "Historical"
+        ],
+        "images": [
+            "https://upload.wikimedia.org/wikipedia/commons/e/eb/Machu_Picchu%2C_Peru.jpg",
+            "https://cdn.britannica.com/56/94556-050-F7B9150E/Machu-Picchu-Peru.jpg",
+            "https://www.nationalgeographic.com/content/dam/travel/Guide-Pages/latin-america/machu-picchu-travel.adapt.1900.1.jpg"
+        ],
+        "coordinates": {
+            "lat": -13.1631,
+            "lon": -72.5450
+        }
+    }
+]
